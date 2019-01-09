@@ -1,5 +1,5 @@
 FROM openjdk:8-slim
-MAINTAINER Surendrajat <sk2812283@gmail.com>
+MAINTAINER ALGPHELLO <khaledannab@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
